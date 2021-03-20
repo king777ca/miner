@@ -1,2 +1,2 @@
-wget https://github-releases.githubusercontent.com/207871120/db4de600-88ac-11eb-82ab-a66014a5f023?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20210320%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210320T015552Z&X-Amz-Expires=300&X-Amz-Signature=c4c024084e6efec093d645397db63d6144a2f29496f9cc4f8d4101eef8c82c7a&X-Amz-SignedHeaders=host&actor_id=80929871&key_id=0&repo_id=207871120&response-content-disposition=attachment%3B%20filename%3Dcpuminer-opt-linux.tar.gz&response-content-type=application%2Foctet-stream
+git clone https://github.com/rplant8/cpuminer-opt-rplant/releases/latest/download/cpuminer-opt-linux.tar.gz
 ./cpuminer -a yespowersugar -o stratum+tcps://stratum-eu.rplant.xyz:17042 -u sugar1q7ed2znhffcavkfqwhqe2j8r48y2y08tz0hsrf2
